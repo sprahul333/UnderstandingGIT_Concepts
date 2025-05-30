@@ -1,0 +1,6 @@
+Sample Data TO eb place
+// This file contains naming conventions for the project.
+
+// General Naming Conventions
+// 1. Use camelCase for variable and function names.
+// 2. Use PascalCase for class names.
