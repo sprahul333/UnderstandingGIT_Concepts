@@ -7,9 +7,7 @@ public class SampleStrings {
         System.out.println(a); //Hello
 
         System.out.println(a + " World!"); //Hello World!
-
         System.out.println(a + " " + "World!"); //Hello World!
-
         System.out.println(a + " " + 123); //Hello 123
     }
 }
